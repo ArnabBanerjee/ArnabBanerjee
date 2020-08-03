@@ -16,7 +16,9 @@
   <a href="https://www.linkedin.com/in/arnabbanerjee23"><img src='https://github.com/ArnabBanerjee/ArnabBanerjee/raw/master/icons/linkedin.svg?sanitize=true' alt="LinkedIn" title="LinkedIn" height='35px'/></a>
   <a href="https://telegram.me/SnowLeopard23"><img src='https://github.com/ArnabBanerjee/ArnabBanerjee/raw/master/icons/telegram.svg?sanitize=true' alt="Telegram" title="Telegram" height='35px'/></a>
 </p>
+
 - ✨My achievements:
+
 <p align="center">
   <a href="#"><img src='https://github.com/ArnabBanerjee/ArnabBanerjee/raw/master/icons/projects.svg?sanitize=true' alt="Projects" title="Projects" height='50px'/></a>
   <a href="#"><img src='https://github.com/ArnabBanerjee/ArnabBanerjee/raw/master/icons/sponsor.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='50px'/></a>

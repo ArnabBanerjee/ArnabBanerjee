@@ -12,7 +12,7 @@
 - 📫 How to reach me:
 <p align="center">
   <a href="https://arnabbanerjee.github.io/"><img src='https://github.com/ArnabBanerjee/ArnabBanerjee/raw/master/icons/me.svg?sanitize=true' alt="Me" title="Me" height='35px'/></a>
-  <a href="https://twitter.com/ArnabBanerjee23"><img src='https://github.com/ArnabBanerjee/ArnabBanerjee/raw/master/icons/twitter.svg?sanitize=true' alt="Twitter" title="Twitter" height='35px'/></a>　
+  <a href="https://twitter.com/ArnabBanerjee23"><img src='https://github.com/ArnabBanerjee/ArnabBanerjee/raw/master/icons/twitter.svg?sanitize=true' alt="Twitter" title="Twitter" height='35px'/></a>
   <a href="https://www.linkedin.com/in/arnabbanerjee23"><img src='https://github.com/ArnabBanerjee/ArnabBanerjee/raw/master/icons/linkedin.svg?sanitize=true' alt="LinkedIn" title="LinkedIn" height='35px'/></a>
   <a href="https://telegram.me/SnowLeopard23"><img src='https://github.com/ArnabBanerjee/ArnabBanerjee/raw/master/icons/telegram.svg?sanitize=true' alt="Telegram" title="Telegram" height='35px'/></a>
 </p>

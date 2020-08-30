@@ -28,5 +28,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnabBanerjee&show_icons=true&count_private=true&include_all_commits=true&icon_color=000&bg_color=30,e96443,904e95&title_color=000&text_color=000" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabBanerjee&layout=default&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height='195px'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabBanerjee&layout=default&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=520" height='195px'/>
 </a>

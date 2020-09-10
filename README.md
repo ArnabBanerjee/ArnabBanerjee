@@ -2,6 +2,10 @@
 
 ### I'm a Fullstack([M](https://www.mongodb.com/)[E](https://expressjs.com/)[V](https://vuejs.org/)[N](https://nodejs.org/en/)/[P](https://www.postgresql.org/docs/)[E](https://expressjs.com/)[V](https://vuejs.org/)[N](https://nodejs.org/en/)/[P](https://www.python.org/)[V](https://vuejs.org/)[M](https://www.mongodb.com/)/[P](https://www.python.org/)[V](https://vuejs.org/)[P](https://www.postgresql.org/docs/)) developer from India(🇮🇳)
 
+<p align=left>
+  <img src=https://komarev.com/ghpvc/?username=ArnabBanerjee alt=ArnabBanerjee />
+</p>
+
 - 🔭 I’m currently working on [**GeoSpoc**](https://geospoc.com)
 - 🌱 I’m currently learning [**svelte**](https://svelte.dev/), [**deno**](https://deno.land/), [**nuxt**](https://nuxtjs.org/), [**mapboxgl**](https://docs.mapbox.com/mapbox-gl-js/api/), [**Composition API**](https://composition-api.vuejs.org/)
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.py`

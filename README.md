@@ -29,9 +29,14 @@
   <a href="#"><img src='https://github.com/ArnabBanerjee/ArnabBanerjee/raw/master/icons/sponsor.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='50px'/></a>
 </p>
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnabBanerjee&show_icons=true&count_private=true&include_all_commits=true&icon_color=000&bg_color=30,e96443,904e95&title_color=000&text_color=000" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabBanerjee&layout=default&bg_color=30,e96443,904e95&title_color=000&text_color=fff&card_width=520" height='195px'/>
-</a>
+<p align="center">
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnabBanerjee&show_icons=true&count_private=true&include_all_commits=true&icon_color=000&bg_color=30,e96443,904e95&title_color=000&text_color=000" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabBanerjee&layout=default&bg_color=30,e96443,904e95&title_color=000&text_color=fff&card_width=520" height='195px'/>
+  </a>
+</p>

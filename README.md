@@ -6,7 +6,7 @@
   <img src=https://komarev.com/ghpvc/?username=ArnabBanerjee alt=ArnabBanerjee />
 </p>
 
-- 🔭 I’m currently working on [**GeoSpoc**](https://geospoc.com)
+- 🔭 I’m currently working on [**Zuma**](https://www.getzuma.com/)
 - 🌱 I’m currently learning [**svelte**](https://svelte.dev/), [**deno**](https://deno.land/), [**nuxt**](https://nuxtjs.org/), [**mapboxgl**](https://docs.mapbox.com/mapbox-gl-js/api/), [**Composition API**](https://composition-api.vuejs.org/)
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.py`
 - 👯 I’m looking to collaborate on `Vue(Nuxt)`, `Svelte`, `Deno` & other open source `JavaScript` & `Python` projects
